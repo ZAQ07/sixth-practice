@@ -1,0 +1,5 @@
+A chatbot communicates similarly to instant messaging.
+ A chatbot is software that simulates human conversations.
+  It enables the communication between a human and a machine,
+   which can take the form of messages or voice commands. 
+   A chatbot is designed to work without the assistance of a human operator.
